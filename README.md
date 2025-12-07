@@ -217,4 +217,5 @@ npm run lint - Type check without emitting files
 npm run clean - Remove build directory
 
 
-
+### GitHub Repo: **https://github.com/Rakib-11A/vehicle-management-system**
+### Live Deployment: **https://vehicle-rental-system-two-tau.vercel.app/**
